@@ -1,5 +1,5 @@
 function mycode() {
-
+    if(a) return "cdeqs";
     return 'abc';
 }
 
