@@ -1,6 +1,8 @@
-function mycode() {
+function mycode(x) {
     if(a) return "cdeqs";
-    if(c) return 1234;
+    if(b) return '6464';
+    if(c) return "dasdsd";
+    //this should return abc by default
     return 'abc';
     // return abc by default;
 }
