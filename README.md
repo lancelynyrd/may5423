@@ -1,6 +1,8 @@
 function mycode() {
     if(a) return "cdeqs";
+    if(c) return 1234;
     return 'abc';
+    // return abc by default;
 }
 
 
