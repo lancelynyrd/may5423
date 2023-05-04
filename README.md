@@ -1,5 +1,8 @@
 function mycode() {
     if(a) return "cdeqs";
+    if(b) return 6464;
+    if(c) return "dasdsd"
+    //this should return abc by default
     return 'abc';
 }
 
